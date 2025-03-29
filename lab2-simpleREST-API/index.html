@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather poem with sightseeing guide</title>
+
+<script type="module">
+    import markdownIt from 'https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/+esm'
+</script>
+
+<script defer>
+    async function get_poem(){
+        let country = document.getElementById("country").value;
+        let city = document.getElementById("city").value;
+        let response = await fetch(`http://127.0.0.1:8000/ai_weather/${country}/${city}/normal`);
+        //console.log(response.json());
+        document.getElementById("result").innerText = (await response.json())['ans'];
+    }
+
+    async function get_places(){
+        let city = document.getElementById("city").value;
+        let response = await fetch(`http://127.0.0.1:8000/sightseeing/${city}`);
+        document.getElementById("result2").innerText = (await response.json())['ans'];
+    }
+</script>
+</head>
+<body>
+<h1>
+    Poems and sightseeing
+</h1>
+    <form>
+        <label for="country">Give the name of a country:</label><br>
+        <input type="text" id="country" name="country"><br>
+        <label for="city">Give the name of a city:</label><br>
+        <input type="text" id="city" name="city"> <br> <br>
+        <input type="button" value="Weather poem" onclick="get_poem()"> <br> <br>
+        <input type="button" value="Three attractions" onclick="get_places()"> <br> <br>
+        <label for="selection">Choose a timeline:</label>
+        <select name="timeline" id="selection">
+            <option value="default">default(15 days)</option>
+            <option value="yesterday">yesterday</option>
+            <option value="tomorrow">tomorrow</option>
+            <option value="next 7 days">next 7 days</option>
+            <option value="next 1 month">next 1 month</option>
+        </select>
+    </form>
+<h2>
+    Poem about the weather created with GeminiAI API
+</h2>
+<div id = "result">
+</div>
+
+<h2>
+    Brief summary of a text about 3 attractions in given city
+</h2>
+<div id = "result2">
+</div>
+
+</body>
+</html>
