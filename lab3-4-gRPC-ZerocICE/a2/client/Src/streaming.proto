@@ -1,0 +1,56 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+
+package events;
+
+message Subscribe {
+  string subscription_id = 1;
+  string country = 2;
+}
+
+message Unsubscribe {
+  string subscription_id = 1;
+  string country = 2;
+}
+
+message Reconnect {
+  string subscription_id = 1;
+}
+
+message ControlRequest {
+  oneof req {
+    Subscribe sub = 1;
+    Unsubscribe unsub = 2;
+    Reconnect rec = 3;
+  }
+}
+
+message Event {
+  string country = 1;
+  repeated string subscribed_by = 2;
+  enum InclineType{
+    NON = 0;
+    LOW = 1;
+    MEDIUM = 2;
+    HIGH = 3;
+  }
+  message Details {
+    int32 distance_kms = 1;
+    InclineType inclinetype = 2;
+    string description = 3;
+  }
+  enum RunType {
+      ANY = 0;
+      STREET = 1;
+      CROSS_COUNTRY = 2;
+      MOUNTAINS = 3;
+      ON_TRACK = 4;
+  }
+  RunType runtype = 3;
+  Details details = 4;
+}
+
+service EventService {
+  rpc StreamEvents(stream ControlRequest) returns (stream Event);
+}

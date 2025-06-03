@@ -1,0 +1,60 @@
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 35km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 4km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 41km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 40km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 4km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: brak, Dystans: 41km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 20km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 29km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 36km, Nachylenie trasy: œredni
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg uliczny, Dystans: 20km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: brak, Dystans: 4km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 31km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 21km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 16km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 38km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 6km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 19km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 23km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 23km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: brak, Dystans: 10km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 16km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 36km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 35km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 16km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: brak, Dystans: 29km, Nachylenie trasy: œredni
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg uliczny, Dystans: 7km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 35km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 27km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 5km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 20km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 20km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 34km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 27km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 17km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 11km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 3km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: brak, Dystans: 32km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 35km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 3km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 31km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 14km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg uliczny, Dystans: 25km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg przelajowy, Dystans: 32km, Nachylenie trasy: œredni
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: brak, Dystans: 23km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: brak, Dystans: 41km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 7km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg uliczny, Dystans: 37km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 13km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 33km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg uliczny, Dystans: 24km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 25km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg uliczny, Dystans: 38km, Nachylenie trasy: ma³y
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 32km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 5km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 17km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 20km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: brak, Dystans: 4km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg gorski, Dystans: 18km, Nachylenie trasy: wysoki
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg na stadionie, Dystans: 25km, Nachylenie trasy: brak
+kraj: Hiszpania, Ilosc subskrybentow: 1, Typ biegu: Bieg uliczny, Dystans: 38km, Nachylenie trasy: ma³y
